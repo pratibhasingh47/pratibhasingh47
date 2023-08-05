@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**_I am a Learner & Advancing my Skills_**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D09A7&width=435&lines=Welcome+to+my+github+profile!!!)](https://git.io/typing-svg)  
+<p align= "center"><i>I am a Learner & Advancing my Skills</i></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)</br>
 📘 I am First Year Engineering Student</br>
 🌱 I’m currently learning C++ & Python also Javascript
