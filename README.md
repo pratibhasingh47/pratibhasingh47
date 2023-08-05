@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align= "center"><i>I am a Learner & Advancing my Skills</i></p>
+![]()<p align= "center"><img src="https://github.com/pratibhasingh47/pratibhasingh47/assets/117928965/9d6597ac-14c5-4603-bc39-59a01f37ae8b" width=240
+height=240 ></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)</br>
+##   <p align= "center"><i>I am a Learner & Advancing my Skills</i></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github+profile!" alt="Typing SVG" /></a></br>
 📘 I am First Year Engineering Student</br>
 🌱 I’m currently learning C++ & Python also Javascript
