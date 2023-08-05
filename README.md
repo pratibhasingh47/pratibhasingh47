@@ -1,4 +1,4 @@
-### Hi there 👋
+# ✨Hi there! 👋 Myself Pratibha 
 
 <!--
 **pratibhasingh47/pratibhasingh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**_I am a Learner & Advancing my Skills_**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D09A7&width=435&lines=Welcome+to+my+github+profile!!!)](https://git.io/typing-svg)  
+
+📘 I am First Year Engineering Student</br>
+🌱 I’m currently learning C++ & Python also Javascript
