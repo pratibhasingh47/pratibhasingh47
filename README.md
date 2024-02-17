@@ -21,5 +21,5 @@ height=240 ></p>
 ##   <p align= "center"><i>I am a Learner & Advancing my Skills</i></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github+profile!" alt="Typing SVG" /></a></br>
-📘 I am First Year Engineering Student</br>
+📘 I am Second Year Engineering Student</br>
 🌱 I’m currently learning C++ & Python also Javascript
