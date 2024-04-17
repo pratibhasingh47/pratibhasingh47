@@ -42,6 +42,7 @@ height=240 ></p>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/yarn-icon-256x256-qz6atyoq.png"></code>
 
 #
 
