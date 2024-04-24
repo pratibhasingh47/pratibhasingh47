@@ -84,7 +84,6 @@ height=240 ></p>
 </summary>
 </summary>
 
-</br>
 <p align="left">
     <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratibhasingh47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="pratibhasingh47"/>
 </p>
