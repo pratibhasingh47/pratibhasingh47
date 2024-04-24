@@ -52,7 +52,7 @@ height=240 ></p>
 <code><img height="40" width="40" src="https://imgs.search.brave.com/V0AsLIO_0aYGw8DpKpoplTxq0SNmsnyoPMGan6c41u8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC92aW0tb3Jp/Z2luYWwtaWNvbi0y/MDQ2eDIwNDgtem5h/NG1oeTIucG5n"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"></code>
 
 
 #
