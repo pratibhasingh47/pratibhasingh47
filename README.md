@@ -1,4 +1,4 @@
-<h1 align="center"> <img height="45" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"/> ✨Hi there! 👋 <br>Myself Pratibha Singh. </h1>
+<h1 align="center">✨Hi there! 👋 <br> <img height="45" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"/> Myself Pratibha Singh. </h1>
 <p align= "center"><img src="https://github.com/pratibhasingh47/pratibhasingh47/assets/117928965/9d6597ac-14c5-4603-bc39-59a01f37ae8b" width=240
 height=240 ></p>
 
