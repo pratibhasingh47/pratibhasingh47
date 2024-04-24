@@ -81,8 +81,13 @@ height=240 ></p>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
+</summary>
+</summary>
+
+</br>
 <p align="left">
     <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratibhasingh47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="pratibhasingh47"/>
+</p>
     <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratibhasingh47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="pratibhasingh47"/>
   <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=pratibhasingh47&theme=radical" alt="pratibhasingh47" />
 </p>
