@@ -47,6 +47,7 @@ height=240 ></p>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/yarn-icon-256x256-qz6atyoq.png"></code>
+<code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"></code>
 
 #
 
