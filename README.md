@@ -6,6 +6,8 @@ height=240 ></p>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile." />
 </p>
+<p align="center">
+<img height="60" align='center' src="https://gifdb.com/images/high/pixel-art-yellow-duck-l3kowra9z0qk5v77.gif"/></p>
 
 #
 
