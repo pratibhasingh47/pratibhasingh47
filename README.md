@@ -16,8 +16,8 @@ height=240 ></p>
   Let's Connect and have a Chat!💬
 </h1>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/pratibha-singh-a9baab27b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="linkedin" ></a>&nbsp;&nbsp;
-    <a href="mailto:pratibhasingh1624@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pratibha-singh-a9baab27b/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="linkedin" ></a>&nbsp;&nbsp;
+    <a href="mailto:pratibhasingh1624@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
     </p>
     <p>
     <a href="https://www.codechef.com/users/pratibha_47" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="CodeChef" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
