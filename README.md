@@ -24,7 +24,8 @@ height=240 ></p>
     <a href="https://github.com/pratibhasingh47" target="blank" rel="noreferrer">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="https://github.com/pratibhasingh47" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-     <a href="https://auth.geeksforgeeks.org/user/pratibha_47" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="geeksforgeeks" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+           <a href="https://leetcode.com/u/pratibhasingh_47/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" alt="leetcode" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+           <a href="https://auth.geeksforgeeks.org/user/pratibha_47" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="geeksforgeeks" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
 </div>
 <br/>
