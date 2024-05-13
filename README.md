@@ -102,7 +102,9 @@ height=240 ></p>
 </p>
      <!-- <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratibhasingh47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="pratibhasingh47"/> -->
   <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=pratibhasingh47&theme=algolia" alt="pratibhasingh47" />
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibhasingh47&langs_count=15&theme=algolia" />
+  <!-- <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibhasingh47&langs_count=15&theme=algolia" />   -->
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibhasingh47&layout=donut-vertical&langs_count=15&theme=algolia" />
+
 </p>
 </details>
 <br/>
