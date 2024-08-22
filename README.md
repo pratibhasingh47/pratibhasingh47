@@ -50,7 +50,6 @@ height=240 ></p>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/yarn-icon-256x256-qz6atyoq.png"></code>
-<!--  <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"></code>  -->
 <code><img height="50" width="50" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png"></code>
 <code><img height="40" width="40" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
 <code><img height="45" width="42" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png"></code>
