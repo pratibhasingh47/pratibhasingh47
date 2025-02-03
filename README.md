@@ -77,9 +77,10 @@ height=240 ></p>
 
 **OS:**
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/ubuntu-logo-vector.svg" alt="Ubuntu"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
 <code><img height="40" width="110" src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch-Linux"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali-Linux"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
+
 
 
 <br/><br/>
