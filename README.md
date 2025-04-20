@@ -118,7 +118,7 @@ height=240 ></p>
 
 
      
-  <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=pratibhasngh47&theme=algolia" alt="pratibhasingh47" />
+  <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=pratibhasingh47&theme=algolia" alt="pratibhasingh47" />
 
   
   <!-- <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratibhasingh47&langs_count=15&theme=algolia" />   -->
