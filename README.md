@@ -61,8 +61,6 @@ height=240 ></p>
 <code><img height="40" width="42" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png"></code>
 <code><img height="43" width="43" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></code>
 
-
-
 #
 
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
