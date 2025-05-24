@@ -37,7 +37,7 @@ height=240 ></p>
 
 <!-- <img align="left" height="350px" width="370px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"/> 
 <img align="left" style="margin:10px 20px 15px 5px;" height="350px" width="370px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"/>-->
-<img align="left" style="margin:10px 20px 15px 5px;border-radius: 20px;" height="350px" width="370px" alt="𝙶𝙸𝙵" src="https://github.com/akash2061/Wallpapers/blob/main/Wallpapers/i-am-ok.jpg"/>
+<img align="left" style="margin:10px 20px 15px 5px;border-radius: 20px;" height="320px" width="350px" alt="𝙶𝙸𝙵" src="https://github.com/akash2061/Wallpapers/blob/main/Wallpapers/i-am-ok.jpg"/>
 <br/>
 
 
@@ -80,7 +80,6 @@ height=240 ></p>
 <code><img height="40" width="110" src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch-Linux"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali-Linux"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
-
 <code><img height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Hat_Logo_2019.svg" alt="redhat"></code>
 
 
