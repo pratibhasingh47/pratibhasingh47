@@ -72,9 +72,9 @@ height=240 ></p>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"></code> -->
 
-<!--
+
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png"></code>
--->
+
 
 #
 
