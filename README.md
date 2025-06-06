@@ -76,7 +76,7 @@ height=240 ></p>
 
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png"></code>
 <code><img height="40" width="70" src="https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.7.0/1747837792406/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
+<code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
 
 #
 
