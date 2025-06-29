@@ -72,7 +72,7 @@ height=240 ></p>
 <!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"></code> -->
 
 
-<code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png"></code>
+<code><img height="40" width="40" src="https://blog.stackademic.com/aws-cloud-zero-to-hero-344f0d8b1695"></code>
 <code><img height="40" width="70" src="https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.7.0/1747837792406/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
 <code><img height="50" width="62" src="https://i0.wp.com/ronekins.com/wp-content/uploads/2020/05/1f8gp7v2ouwvz_sdwvfevia.png?fit=1200%2C1040&ssl=1"></code>
