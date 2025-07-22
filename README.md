@@ -72,7 +72,8 @@ height=240 ></p>
 <!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"></code> -->
 
 
-<code><img height="40" width="40" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Images.png"></code>
+<!-- <code><img height="40" width="40" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Images.png"></code> -->
+<code><img height="70" width="60" src="https://miro.medium.com/v2/resize:fit:1400/1*neG4D9C8UcJvNn6bverfIA.png"></code>
 <code><img height="40" width="70" src="https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.7.0/1747837792406/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
 <code><img height="50" width="62" src="https://i0.wp.com/ronekins.com/wp-content/uploads/2020/05/1f8gp7v2ouwvz_sdwvfevia.png?fit=1200%2C1040&ssl=1"></code>
